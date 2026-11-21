@@ -13,7 +13,7 @@ export default function ProjectsSection({ locale, openDetail, openMemoria }: Pro
             highlight=".PetCare"
             subtitle="Aplicación multiplataforma · Proyecto individual"
 
-            description="Gestión integral de mascotas con historial veterinario, recordatorios, comunidad, almacenamiento offline y sincronización en la nube."
+            description="Aplicación multiplataforma desarrollada individualmente para centralizar la gestión de mascotas, el historial veterinario y los recordatorios. Combina almacenamiento local con servicios en la nube y funcionalidades orientadas a la comunidad."
             technologies={["Flutter", "SQLite", "Supabase", "Firebase"]}
             images={[
                 "/screenshots/mascota.jpg",
@@ -31,7 +31,7 @@ export default function ProjectsSection({ locale, openDetail, openMemoria }: Pro
             imageBackground="memoria-hero"
             className="mt-8"
             subtitle="Aplicación móvil · En desarrollo"
-            description="Apoyo cognitivo y organización de cuidados con actividades adaptables, rutinas, recordatorios y herramientas de seguimiento para familiares y cuidadores."
+            description="Aplicación móvil enfocada en el apoyo cognitivo y la organización de cuidados. Presenta interfaces accesibles, actividades adaptables y herramientas para facilitar las rutinas y el seguimiento de familiares y cuidadores."
             technologies={[
                 "Flutter",
                 "Dart",
@@ -54,7 +54,7 @@ export default function ProjectsSection({ locale, openDetail, openMemoria }: Pro
             title="Nachos"
             highlight=".PetCare"
             subtitle="Cross-platform app · Solo project"
-            description="All-in-one pet management with veterinary records, reminders, community features, offline storage and cloud synchronisation."
+            description="Independently developed cross-platform app bringing together pet profiles, veterinary records and reminders, with local storage, cloud services and community-oriented features."
             technologies={["Flutter", "SQLite", "Supabase", "Firebase"]}
             images={[
                 "/screenshots/mascota.jpg",
@@ -71,7 +71,7 @@ export default function ProjectsSection({ locale, openDetail, openMemoria }: Pro
                 imageBackground="memoria-hero"
                 className="mt-8"
                 subtitle="Mobile app · In development"
-                description="Cognitive support and care coordination with adaptable activities, routines, reminders and monitoring tools for families and caregivers."
+                description="Mobile app focused on cognitive support and care coordination, with accessible interfaces, adaptable activities, routines and monitoring tools for families and caregivers."
                 technologies={["Flutter", "Dart", "Accessibility", "Routines"]}
                 images={[
                     "/screenshots/memoria-viva/cognitiva.jpeg",
