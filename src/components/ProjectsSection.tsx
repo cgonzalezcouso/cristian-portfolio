@@ -11,7 +11,7 @@ export default function ProjectsSection({ locale, openDetail, openMemoria }: Pro
 
             title="Nachos"
             highlight=".PetCare"
-            subtitle="Aplicación multiplataforma · Proyecto individual · En desarrollo"
+            subtitle="Aplicación multiplataforma · Proyecto individual · Finalizado"
 
             description="Desarrollo individualmente una aplicación multiplataforma con Flutter para centralizar la información de las mascotas, el seguimiento veterinario y la organización de sus cuidados. He implementado persistencia local con SQLite y conexiones funcionales con Supabase y Firebase, combinando almacenamiento en el dispositivo con servicios en la nube."
             technologies={["Flutter", "SQLite", "Supabase", "Firebase"]}
@@ -53,7 +53,7 @@ export default function ProjectsSection({ locale, openDetail, openMemoria }: Pro
 <section id="proyectos" className="max-w-6xl mx-auto px-5 sm:px-8 py-16"><p className="section-label">01 / Selected work</p><h2 className="text-3xl sm:text-4xl font-bold mt-3 mb-8">Featured projects<span className="text-blue">.</span></h2><ProjectCard
             title="Nachos"
             highlight=".PetCare"
-            subtitle="Cross-platform app · Solo project · In development"
+            subtitle="Cross-platform app · Solo project · Completed"
             description="I am independently developing a cross-platform Flutter application to centralise pet information, veterinary records and care organisation. I have implemented local persistence with SQLite and working connections to Supabase and Firebase, combining on-device storage with cloud services."
             technologies={["Flutter", "SQLite", "Supabase", "Firebase"]}
             images={[
