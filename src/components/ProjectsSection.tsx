@@ -16,9 +16,9 @@ export default function ProjectsSection({ locale, openDetail, openMemoria }: Pro
             description="Aplicación multiplataforma desarrollada individualmente para centralizar la gestión de mascotas, el historial veterinario y los recordatorios. Combina almacenamiento local con servicios en la nube y funcionalidades orientadas a la comunidad."
             technologies={["Flutter", "SQLite", "Supabase", "Firebase"]}
             images={[
-                "/screenshots/mascota.jpg",
-                "/screenshots/inicio.jpg",
-                "/screenshots/directorio.jpg",
+                "/screenshots/mascota.webp",
+                "/screenshots/inicio.webp",
+                "/screenshots/directorio.webp",
             ]}
             onOpen={openDetail}
         />
@@ -57,9 +57,9 @@ export default function ProjectsSection({ locale, openDetail, openMemoria }: Pro
             description="Independently developed cross-platform app bringing together pet profiles, veterinary records and reminders, with local storage, cloud services and community-oriented features."
             technologies={["Flutter", "SQLite", "Supabase", "Firebase"]}
             images={[
-                "/screenshots/mascota.jpg",
-                "/screenshots/inicio.jpg",
-                "/screenshots/directorio.jpg",
+                "/screenshots/mascota.webp",
+                "/screenshots/inicio.webp",
+                "/screenshots/directorio.webp",
             ]}
             buttonText="Explore case study"
             onOpen={openDetail}
